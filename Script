@@ -1,4 +1,4 @@
-local FlyKey = Enum.KeyCode.X
+local FlyKey = Enum.KeyCode.V
         local SpeedKey = Enum.KeyCode.LeftControl
         
         local SpeedKeyMultiplier = 3
